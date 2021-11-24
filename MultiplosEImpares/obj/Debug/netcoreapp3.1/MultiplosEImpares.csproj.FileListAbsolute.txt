@@ -1,0 +1,14 @@
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\bin\Debug\netcoreapp3.1\MultiplosEImpares.exe
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\bin\Debug\netcoreapp3.1\MultiplosEImpares.deps.json
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\bin\Debug\netcoreapp3.1\MultiplosEImpares.runtimeconfig.json
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\bin\Debug\netcoreapp3.1\MultiplosEImpares.runtimeconfig.dev.json
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\bin\Debug\netcoreapp3.1\MultiplosEImpares.dll
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\bin\Debug\netcoreapp3.1\MultiplosEImpares.pdb
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.csproj.AssemblyReference.cache
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.AssemblyInfoInputs.cache
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.AssemblyInfo.cs
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.csproj.CoreCompileInputs.cache
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.dll
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.pdb
+C:\Users\SHAX\source\repos\MultiplosEImpares\MultiplosEImpares\obj\Debug\netcoreapp3.1\MultiplosEImpares.genruntimeconfig.cache
